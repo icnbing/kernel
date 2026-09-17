@@ -13,12 +13,12 @@ on:
       kernel_source:
         description: "Select the kernel source"
         required: false
-        default: "icnbing"
+        default: "icnb"
         type: choice
         options:
           - unifreq
           - ophub
-          - icnbing
+          - icnb
       kernel_version:
         description: "Select kernel version"
         required: false
