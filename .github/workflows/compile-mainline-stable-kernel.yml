@@ -45,7 +45,7 @@ on:
       kernel_package:
         description: "Select compile package list"
         required: false
-        default: "dtbs"
+        default: "all"
         type: choice
         options:
           - all
