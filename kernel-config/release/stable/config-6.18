@@ -4314,7 +4314,7 @@ CONFIG_COMMON_CLK=y
 # end of Clock driver for ARM Reference designs
 
 # CONFIG_COMMON_CLK_MAX9485 is not set
-# CONFIG_COMMON_CLK_SCMI is not set
+CONFIG_COMMON_CLK_SCMI=y
 # CONFIG_COMMON_CLK_SI5341 is not set
 # CONFIG_COMMON_CLK_SI5351 is not set
 # CONFIG_COMMON_CLK_SI514 is not set
